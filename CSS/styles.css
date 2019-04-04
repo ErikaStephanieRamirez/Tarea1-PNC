@@ -1,0 +1,49 @@
+body {
+    background-image: url('../img/huellitas.png');
+  }
+
+.imgn {
+  width: 600px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+.animal {
+  width: 400px;
+  height: 200px;
+}
+
+.containerCSS {
+    background-color: #FFF6CA;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 5%;
+    padding:20px;
+    margin-top: 20px;
+  }
+
+.text-j{
+    color   : #000;
+    font-size: 48px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.text{
+  margin: 30px;
+  padding: 20px;
+  font-size: 18px;
+}
+
+#footer{
+  background-color: #FFF6CA;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 5%;
+  padding:2px;
+  margin-top: 20px;
+}
